@@ -5,8 +5,6 @@ metadata:
 spec:
   license:
     accept: true
-    license: L-AXAF-JLZ53A
+    license: L-APIG-CAUEQC
     use: Development
-  version: 9.3.4.1-r1
-
-  
+  version: 9.3.2.0-r1
